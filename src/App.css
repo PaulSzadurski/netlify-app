@@ -7,6 +7,11 @@
   pointer-events: none;
 }
 
+body {
+  background: rgb(75, 75, 75);
+  color: white;
+}
+
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
     animation: App-logo-spin infinite 20s linear;
@@ -35,4 +40,22 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+img {
+  max-width: 500px;
+}
+
+.gallery {
+  display: flex;
+  justify-content: space-between;
+}
+
+.wrapper {
+  margin: 0 auto;
+  max-width: 90%;
+}
+
+a {
+  color: white;
 }

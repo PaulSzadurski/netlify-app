@@ -2,8 +2,8 @@ import './App.css';
 
 function App() {
   return (
-    <div>
-      <h1>Deploying with Netlify!</h1>
+    <div className="wrapper">
+      <h1>DARK SOULS</h1>
       <p>
         In the Age of Ancients the world was unformed, shrouded by fog. A land of gray crags, Archtrees and Everlasting Dragons. But then there was Fire and with fire came disparity. Heat and cold, life and death, and of course, light and dark. Then from the dark, They came, and found the Souls of Lords within the flame. Nito, the First of the Dead, The Witch of Izalith and her Daughters of Chaos, Gwyn, the Lord of Sunlight, and his faithful knights. And the Furtive Pygmy, so easily forgotten.
 
@@ -15,13 +15,16 @@ function App() {
 
         Only, in the ancient legends it is stated, that one day an undead shall be chosen to leave the undead asylum, in pilgrimage, to the land of ancient lords, Lordran.
       </p>
-      <div>
-        <img src="https://static.wikia.nocookie.net/darksouls/images/1/1f/Seath_the_scaleless.jpg/revision/latest?cb=20121112141611" alt="seath"/>
+      <div className="gallery">
         <img src="https://i.ytimg.com/vi/rgy1TV12LDc/maxresdefault.jpg" alt="artorias"/>
         <img src="https://laurakbuzz.files.wordpress.com/2019/10/dark-souls-remastered-switch-review.jpg" alt="souls"/>
-        <p>Test</p>
-
+        <img src="https://d2skuhm0vrry40.cloudfront.net/2018/articles/2018-05-31-17-57/dark-souls-walkthrough-guide-5927-1527785861805.jpg/EG11/resize/1200x-1/dark-souls-walkthrough-guide-5927-1527785861805.jpg" alt="souls2"/>
       </div>
+      <h2>Some fun resources!</h2>
+      <ul>
+        <li><a href="https://darksouls.wiki.fextralife.com/Dark+Souls+Wiki">Fextralife Dark Souls Wiki</a></li>
+        <li><a href="https://www.reddit.com/r/darksouls/">Dark Souls Subreddit</a></li>
+      </ul>
     </div>
   );
 }
