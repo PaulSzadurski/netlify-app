@@ -16,8 +16,10 @@ function App() {
         Only, in the ancient legends it is stated, that one day an undead shall be chosen to leave the undead asylum, in pilgrimage, to the land of ancient lords, Lordran.
       </p>
       <div>
-        <img src="https://static.wikia.nocookie.net/darksouls/images/1/1f/Seath_the_scaleless.jpg/revision/latest?cb=20121112141611"></img>
-        
+        <img src="https://static.wikia.nocookie.net/darksouls/images/1/1f/Seath_the_scaleless.jpg/revision/latest?cb=20121112141611" alt="seath"/>
+        <img src="https://i.ytimg.com/vi/rgy1TV12LDc/maxresdefault.jpg" alt="artorias"/>
+        <img src="https://laurakbuzz.files.wordpress.com/2019/10/dark-souls-remastered-switch-review.jpg" alt="souls"/>
+
       </div>
     </div>
   );
