@@ -19,6 +19,7 @@ function App() {
         <img src="https://static.wikia.nocookie.net/darksouls/images/1/1f/Seath_the_scaleless.jpg/revision/latest?cb=20121112141611" alt="seath"/>
         <img src="https://i.ytimg.com/vi/rgy1TV12LDc/maxresdefault.jpg" alt="artorias"/>
         <img src="https://laurakbuzz.files.wordpress.com/2019/10/dark-souls-remastered-switch-review.jpg" alt="souls"/>
+        <p>Test</p>
 
       </div>
     </div>
