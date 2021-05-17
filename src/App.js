@@ -15,6 +15,10 @@ function App() {
 
         Only, in the ancient legends it is stated, that one day an undead shall be chosen to leave the undead asylum, in pilgrimage, to the land of ancient lords, Lordran.
       </p>
+      <div>
+        <img src="https://static.wikia.nocookie.net/darksouls/images/1/1f/Seath_the_scaleless.jpg/revision/latest?cb=20121112141611"></img>
+        
+      </div>
     </div>
   );
 }
